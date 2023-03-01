@@ -9,4 +9,9 @@ Aquí irán los apuntes de **XML**
 * tres
 
 ## DTD
-Los _apuntes_ de DTD
+Los _apuntes de_ DTD
+
+> Un gran poder conlleva
+> una gran responsabilidad.
+>
+> -Confucio 2024

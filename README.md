@@ -34,3 +34,23 @@ Y [ESTO](https://enti.cat) es otro enlace.
 ### Imagen incrustada
 
 ![Ventoline Monfratelo](https://pbs.twimg.com/media/Fnems_qXgAI6noo.jpg)
+
+
+### Ejemplo de resaltado de sintaxis
+
+```kotlin
+fun main(args: Array<String>) {
+
+    print("Enter a number: ")
+
+    // reads line from standard input - keyboard
+    // and !! operator ensures the input is not null
+    val stringInput = readLine()!!
+
+    // converts the string input to integer
+    var integer:Int = stringInput.toInt()
+
+    // println() prints the following line to the output screen
+    println("You entered: $integer")
+}
+```

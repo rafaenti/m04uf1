@@ -43,6 +43,8 @@ Los _apuntes de_ DTD
 >
 > Seguimos
 
+### Separador
+
 ---
 
 
@@ -104,4 +106,5 @@ fun main(args: Array<String>) {
 ### Escapar caracteres
 
 \# ejemplo de escapado
-\*que en otras cosas*
+
+\*que en otras cosas\*

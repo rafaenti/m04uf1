@@ -64,3 +64,10 @@ fun main(args: Array<String>) {
 ### Carácteres extendidos
 
 :poop: :alien: :cry: :imp:
+
+### Estilo de carácteres
+
+*cursiva* _cursiva_
+**negrita** __negrita__
+~~TACHADO~~
+~~***tachado negrita y cursiva***~~

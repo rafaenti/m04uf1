@@ -4,14 +4,34 @@ Cyberseguridad: Llenguatge de Marques (M04-UF1)
 ## XML
 Aquí irán los apuntes de **XML**
 
+
+
+## DTD
+Los _apuntes de_ DTD
+
+
+## Markdown
+
+### Estilo de carácteres
+
+*cursiva* _cursiva_
+
+**negrita** __negrita__
+
+~~TACHADO~~
+
+~~***tachado negrita y cursiva***~~
+
+
+### Listas
+
 * uno
 * dos
 	* sub apartado de 2
 	* otro más
 * tres
 
-## DTD
-Los _apuntes de_ DTD
+### Citas
 
 > Un gran poder conlleva
 > una gran responsabilidad.
@@ -24,6 +44,9 @@ Los _apuntes de_ DTD
 > Seguimos
 
 ---
+
+
+### Enlaces
 
 Un enlace a la mejor web del mundo:
 
@@ -65,12 +88,14 @@ fun main(args: Array<String>) {
 
 :poop: :alien: :cry: :imp:
 
-### Estilo de carácteres
 
-*cursiva* _cursiva_
 
-**negrita** __negrita__
+### Tablas
 
-~~TACHADO~~
 
-~~***tachado negrita y cursiva***~~
+| id_character | name | age | level |
+| --- | --- | --- | --- |
+| 1 | Eustaquio | 197 | 99 |
+| 2 | Mariana | 20 | 100 |
+| 3 | Mortadelo | 100 | 1 |
+| 4 | Messi | 44 | 32 |

@@ -54,3 +54,9 @@ fun main(args: Array<String>) {
     println("You entered: $integer")
 }
 ```
+
+### Listas de tareas
+
+- [ ] Primera tarea
+- [x] Segunda tarea
+- [ ] Tercera tarea

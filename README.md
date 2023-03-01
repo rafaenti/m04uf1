@@ -6,6 +6,8 @@ Aquí irán los apuntes de **XML**
 
 * uno
 * dos
+	* sub apartado de 2
+	* otro más
 * tres
 
 ## DTD
@@ -18,4 +20,5 @@ Los _apuntes de_ DTD
 
 > **Esto es una cita**
 >> Esto es una cita dentro de una cita
+>
 > Seguimos

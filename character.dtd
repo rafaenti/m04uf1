@@ -2,23 +2,41 @@
 	age, Race, class, gender,
 	height, weight, language,
 	TieneLaESO?, weapons?)>
-<!ELEMENT name (#PCDATA)>
-<!ELEMENT surname (#PCDATA)>
-<!ELEMENT age EMPTY>
-<!ELEMENT Race (#PCDATA)>
-<!ELEMENT class (#PCDATA)>
-<!ELEMENT gender (#PCDATA)>
-<!ELEMENT height EMPTY>
-<!ELEMENT weight EMPTY>
-<!ELEMENT language (#PCDATA)>
-<!ELEMENT TieneLaESO EMPTY>
-<!ELEMENT weapons (weapon+)>
-<!ELEMENT weapon EMPTY>
-
 <!ATTLIST character id_character CDATA #REQUIRED>
+
+<!ELEMENT name (#PCDATA)>
+
+<!ELEMENT surname (#PCDATA)>
+
+<!ELEMENT age EMPTY>
 <!ATTLIST age years CDATA #REQUIRED>
+
+<!ELEMENT Race (#PCDATA)>
+
+<!ELEMENT class (#PCDATA)>
+
+<!ELEMENT gender (#PCDATA)>
 <!ATTLIST gender abbrev CDATA #REQUIRED>
+
+<!ELEMENT height EMPTY>
 <!ATTLIST height cm CDATA #REQUIRED>
+
+<!ELEMENT weight EMPTY>
 <!ATTLIST weight kg CDATA #REQUIRED>
+
+<!ELEMENT language (#PCDATA)>
 <!ATTLIST language abbrev CDATA #REQUIRED>
+<!ATTLIST language prefix CDATA>
+
+<!ELEMENT TieneLaESO EMPTY>
+
+<!ELEMENT weapons (weapon+)>
+
+<!ELEMENT weapon EMPTY>
 <!ATTLIST weapon id_weapon CDATA #REQUIRED>
+
+
+
+
+
+

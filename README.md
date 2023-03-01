@@ -99,3 +99,9 @@ fun main(args: Array<String>) {
 | 2 | Mariana | 20 | 100 |
 | 3 | Mortadelo | 100 | 1 |
 | 4 | Messi | 44 | 32 |
+
+
+### Escapar caracteres
+
+\# ejemplo de escapado
+\*que en otras cosas*

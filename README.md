@@ -30,3 +30,7 @@ Un enlace a la mejor web del mundo:
 [CondorChem](https://condorchem.com)
 
 Y [ESTO](https://enti.cat) es otro enlace.
+
+### Imagen incrustada
+
+![Ventoline Monfratelo](https://pbs.twimg.com/media/Fnems_qXgAI6noo.jpg)

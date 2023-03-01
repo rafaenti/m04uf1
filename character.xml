@@ -1,4 +1,5 @@
 <?xml version="1.0" enconding="UTF-8" ?>
+
 <character>
 	<name>Eustaquio</name>
 	<surname>Mendoza</surname>
@@ -7,5 +8,5 @@
 	<race>Enano</race>
 	<class>Artificiero</class>
 	<gender abbrev="N">Non-Binary</gender>
-	
+	<TieneLaESO latiene="sí" />
 </character>
